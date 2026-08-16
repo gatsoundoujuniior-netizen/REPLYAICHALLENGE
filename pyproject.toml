@@ -1,13 +1,19 @@
 [project]
 name = "replyaichallenge"
 version = "0.1.0"
-description = "Add your description here"
+description = "Multi-agent fraud detection pipeline built for the Reply AI Challenges"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "bs4>=0.0.2",
+    "ipykernel>=7.2.0",
     "langchain>=1.2.15",
+    "langchain-core>=1.2.30",
     "langchain-openai>=1.1.13",
-    "langfuse>=4.2.0",
+    "langfuse>=3,<4",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.2",
     "python-dotenv>=1.2.2",
+    "seaborn>=0.13.2",
     "ulid-py>=1.1.0",
 ]

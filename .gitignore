@@ -9,3 +9,21 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Challenge datasets (not ours to redistribute)
+Brave New World - train/
+Brave New World - validation/
+The Truman Show - train/
+The Truman Show - validation/
+Deus Ex - train/
+Deus Ex - validation/
+Deus+Ex+-+validation/
+
+# Local, non-project files
+Telegram Desktop/
+
+# Local config containing personal data extracted from the datasets
+config/known_users.json
+
+# Jupyter
+.ipynb_checkpoints/

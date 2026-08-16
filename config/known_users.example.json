@@ -1,0 +1,10 @@
+{
+  "_comment": "Copy this file to known_users.json and fill it with the real user profiles from the challenge dataset (users.json). known_users.json is gitignored because it contains personal data that belongs to the challenge organizer, not to this repository.",
+  "SENDER-ID-0": {
+    "name": "Jane Doe",
+    "salary": 3000.0,
+    "city": "Example City",
+    "phone": "+10000000000",
+    "mail": "jane.doe"
+  }
+}
