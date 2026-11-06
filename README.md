@@ -34,6 +34,10 @@ call is traced through [Langfuse](https://langfuse.com) for observability (see
 | Brave New World - validation | 524 | 10 | 21,127 EUR | 3-agent (final version) |
 | The Truman Show - validation | 80 | 7 | 450.36 EUR | 2-agent (earlier iteration) |
 
+**Competition result:** about 30,600 EUR flagged across the 2 completed datasets, on a 40 USD API budget. Ranked 256th of 1,971 teams at the 16/04/2026 snapshot (top 13%, see `assets/screenshots/leaderboard_score.jpg`).
+
+The table shows the runs stored in this repository. The Truman Show row comes from an earlier 2-agent iteration: the later submission on this dataset flagged about 9,500 EUR, and its output is not stored here.
+
 `Brave New World - train` and `Deus Ex - validation` were loaded for exploration but
 were not run through the full pipeline, so no result is reported for them.
 
